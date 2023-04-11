@@ -1,0 +1,12 @@
+strong{
+    background-color: aqua;
+    height:200px;
+    width:300px;
+    font-size: large;
+    text-align: center;
+    
+}
+
+img{
+    border: 10px solid coral;
+}
